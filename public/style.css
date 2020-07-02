@@ -1,0 +1,7 @@
+.msg-show{
+    border-radius: 10%;
+    padding: 10%;
+    z-index: 999;
+    background: yellowgreen;
+    color: crimson;
+}
